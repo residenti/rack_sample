@@ -1,0 +1,12 @@
+* rack_sample
+
+[[https://techracho.bpsinc.jp/hachi8833/2022_08_02/77493][Rails: リクエストのライフサイクルとRackを理解する（翻訳）｜TechRacho by BPS株式会社]]
+
+
+** Setup
+
+`bundle i`
+
+** Usage
+
+Access to http://localhost:9292/hello .
