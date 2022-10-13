@@ -1,3 +1,7 @@
 require_relative 'app'
 
-run HelloWorld.new
+run Redirect.new(
+  HelloWorld.new,
+  from: '/',
+  to: '/hello'
+)
